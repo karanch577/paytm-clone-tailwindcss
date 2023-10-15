@@ -1,4 +1,4 @@
-# Project9 [live link](https://paytm-clone-karanch.netlify.app/)
+# Project9 [live link](https://paytm-clone-tailwindcss.vercel.app/)
 
 ## By - Karan Chauhan
 
